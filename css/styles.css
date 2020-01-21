@@ -1,0 +1,27 @@
+#backdrop {
+    background-color:skyblue;
+}
+
+header {
+    background-color: yellow;
+}
+
+nav{
+    background-color: green;
+}
+
+main{
+    background-color: grey;
+}
+aside{
+    background-color: indigo;
+}
+
+section{
+    background-color: khaki;
+}
+
+footer{
+    background-color: black;
+    color:white;
+}
